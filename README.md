@@ -34,9 +34,9 @@ THEN I can save my initials and my score
 
 ## Mock-Up
 
-The following animation demonstrates the application functionality:
+![screenshot](./assets/images/code-quiz-img.png)
 
-![A user clicks through an interactive coding quiz, then enters initials to save the high score before resetting and starting over.](./Assets/04-web-apis-homework-demo.gif)
+deployed site: https://mariahw4.github.io/04-javascript-code-quiz/#highScores
 
 ## Grading Requirements
 

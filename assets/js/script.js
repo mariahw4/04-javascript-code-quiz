@@ -467,7 +467,7 @@ function quizComplete() {
 
     // style elements
     quizCompleteText.setAttribute("style", "text-align: center");
-    nameEntryForm.setAttribute("form", "Your Name Here");
+    nameEntryForm.setAttribute("form", "text");
 
     // append elements to page
     quizCompleteEl.appendChild(quizCompleteH2);
